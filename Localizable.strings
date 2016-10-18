@@ -1,0 +1,204 @@
+/*
+ Localizable.strings
+ UberNewUser
+ 
+ Created by Elluminati - macbook on 27/09/14.
+ Copyright (c) 2014 Jigs. All rights reserved.
+ serial Popdsfuasd8of908wbwnd
+ */
+
+"APPLICATION NAME"="UPPER";
+
+"SELECT_PHOTO"="Sélectionner une photo";
+"TAKE_PHOTO"="Prendre la photo";
+"CANCEL"="ANNULER";
+"OK"="OK";
+"CAM_NOT_AVAILABLE" = "Camera non disponible";
+"PLEASE_FIRST_NAME"="Merci d'entrer votre prénom.";
+"PLEASE_LAST_NAME"="Merci d'entrer votre nom.";
+"PLEASE_EMAIL"="Merci d'entrer votre adresse email";
+"PLEASE_NUMBER"="Merci d'entrer votre numéro de téléphone.";
+"PLEASE_PASSWORD"="Merci d'entrer votre mot de passe.";
+"PLEASE_PASSWORD_LENGTH"="Votre mot de passe doit comporter 6 caractères.";
+"PLEASE_VALID_EMAIL"="Merci d'entrer une adresse email valide.";
+"REGISTER_SUCCESS"="Vous êtes enregistré!";
+"REGISTER_FAIL"="L'enregistrement a échoué.";
+
+"LOGIN_SUCCESS"="Bienvenue ";
+"LOGIN_FAIL"="Connexion échoué, merci de réessayer";
+
+"THING_SUCCESS"="Éléments ajoute avec succès.";//ooo
+"THING_FAIL"="Erreur, merci de réessayer.";
+
+"NOT_VALID_LOCATION" = "Localisation non valide";
+"ALREADY_LOGIN"="Merci de patienter nous vous connectons ..";
+"PLEASE_WAIT"="Merci de patienter...";
+
+//////////// Loading Titles
+
+
+"COTACCTING_SERVICE_PROVIDER"="Recherche taxis à proximité..";
+"LOADING"="CHARGEMENT...";
+"LOGIN"="Connexion...";//"PLEASE WAIT, WHILE WE LOG YOU IN";
+
+"WAITING_FOR_ADMIN_CONFIRM"="VOTRE APPROBATION EST EN COURS DE MODERATION. NOUS VOUS CONTACTERONS BIENTOT";
+"REQUESTING"="EN DEMANDE";
+"REVIEWING"="REVIEWING";
+"CANCLEING"="EN ANNULATION";
+"EDITING"="En mise à jour";
+"PLEASE_WAIT"="Merci de patienter";
+"GET_PROVIDER"="Réception des listes";//ooo
+
+
+/////////////// Toast Title
+
+"SUCESS_REFERRAL" = "Code référant appliqué";
+"RATING"= "Merci pour votre commentaire";
+"PASSWORD_SENT"="Votre mot de passe vous a été envoyé par email, à votre email d'enregistrement.";
+"ERROR"="Hum..Nous avons remarqué une erreur , Merci de réessayer.";
+"SELECT_TYPE" = "Merci de sélectionner un type";
+"REQUEST_CANCEL" = "Votre demande a bien été annulé";
+"NO_WALKER" = "Nous ne trouvons aucun taxi près de vous";
+"PROFILE_EDIT_SUCESS" = "Votre profile a bien été mis à jour";
+"NO_REFERRAL" = "Cet utilisateur n'a pas de code référant.";
+
+
+///////////  RegisterVC & Profile
+
+"INFO_EMAIL"="Merci de vérifier votre adresse email, vous ne pourrez pas la changer par la suite.";
+"This field is not editable."="Ce champ n'est pas éditable.";
+"NOT_MATCH_RETYPE"="Vérifiez que votre mot de passe de correspond pas au nouveau mot de passe.";
+"Registering"="Enregistrement...";
+
+
+///// LoginVC
+"SIGN IN"="  CONNEXION";
+"Email"="Email";
+"Password"="Mot de passe";
+"Forgot Password"="Mot de passe oublié ?";
+"Network Status"="Etat du réseau";
+"NO_INTERNET"="Désolé, le réseau n'est pas disponible, merci de réessayer ultérieurement.";
+
+///// RegisterVC
+"Register"="  S'ENREGISTRER";
+"FIRST NAME*"="PRENOM*";
+"LAST NAME*"="NOM*";
+"EMAIL*"="EMAIL*";
+"PASSWORD*"="MOT DE PASSE*";
+"NUMBER*"="NUMERO*";
+"I agree to the terms and conditions"="j'ai lu et j'accepte les conditions générales de vente";
+"NEXT"="SUIVANT";
+"Done"="OK";
+"Select Country"="Sélectionner le pays";
+
+///// TermVC
+"Terms & Conditions"="  Conditions générales de vente";
+
+///// ApplyReferralCodeVC
+"Referral Code"="  Code référant";
+"Enter Referral Code"="Entrez le code référant";
+"Referral_Msg"="Vous pouvez ajouter le code référant fourni par votre ami ici pour obtenir des crédits gratuit. Si vous n'avez pas de code référant vous pouvez ignorer cette etape.";
+"SKIP"="IGNORER";
+"ADD"="AJOUTER";
+
+///// PaymentVC
+"ADD PAYMENT"="  AJOUTER PAIEMENT";
+"Adding cards"="Ajouter des cartes...";
+
+///// SliderVC
+"Profile"="  Profile";
+"History"="  Historique";
+"Payment"="  Paiement";
+"Referral"="  Référant";
+"Promotions"="  Promotions";
+"Logout"="  DECONNEXION";
+"Logout Msg"="Etes vous sure de vouloir vous déconnecter ?";
+"Yes"="Oui";
+"No"="Non";
+
+///// EastimateFareVC
+
+"Fare Calulator"="  ESTIMATION";
+"Destination Address"="Adresse de destination";
+"Home Address"="Adresse de la maison";
+"Work Address"="Adresse du travail";
+
+///// ProfileVC
+"FIRST NAME"="PRENOM";
+"LAST NAME"="NOM";
+"EMAIL"="EMAIL";
+"PHONE"="TELEPHONE";
+"CURRENT PASSWORD"="MOT DE PASSE ACTUEL";
+"NEW PASSWORD"="NOUVEAU MOT DE PASSE";
+"CONFORM PASSWORD"="CONFIRMEZ LE MOT DE PASSE";
+"UPDATE PROFILE"="METTRE A JOUR LE PROFILE";
+"EDIT PROFILE"="EDITER LE PROFILE";
+
+
+
+///// ReferralCodeVC
+"Referral Code"="  Code référant";
+"Your Referral Code is"="Votre code référant est ";
+"Your Referral Credit"="Vos crédit référant sont ";
+"Share With your friend"="PARTAGEZ AVEC VOS AMIS";
+"My Referral code is"="Mon code référant";
+
+///// HistoryVC
+
+"Invoice"="Facture";
+"BASE PRICE"="PRIX DE BASE";
+"DISTANCE COST"="TARIF DE LA COURSE";
+"TIME COST" = "TARIF TEMPS";
+"PROMO BOUNCE" = "BONUS PROMO";
+"REFERRAL BOUNCE" = "BONUS REFERANT";
+"per mile" = "par miles";
+"per mins" = "par minutes";
+"Total Due" = "Total Due";
+"Close"="FERMER";
+
+
+///// FeedBackVC
+"Feedback"="  Commentaires";
+"CONFIRM"="CONFIRMER";
+"COMMENT"="COMMENTAIRES";
+"Submit"="CONTINUER";
+"PLEASE_RATE"="Merci de donner votre avis sur le conducteur.";
+
+///// PickUpVC
+"PICK ME UP"="Hep! Taxi!";
+"GET FARE ESTIMATE"="ESTIMATION";
+"MIN FARE"="FRAIS MINIMUM";
+"ETA"="TEMPS ESTIMÉ D’ARRIVÉE";
+"MAX SIZE"="CAPACITÉ";
+"Select Your Payment Type"="Choisissez votre mode paiement";
+"Request"="ENVOYER";
+"SELECT SERVICE YOU NEED"="SÉLECTIONNEZ VOTRE TYPE DE VOITURE";
+"SEARCH"="RECHERCHER";
+"REQUESTING"="Contacte les conducteurs à proximité...";//oooo
+"RATE CARD"="TABLE";/////ooooo
+"Base Price :"="Prix de base :";
+"Distance Cost :"="Cout de la distance (Par km) :";
+"Time Cost :"="Tarif au temps (En min) :";
+"Rate_card_note"="Des frais de stationnement et de parking peuvent se cumuler";
+
+
+
+///// ProviderDetailsVC
+"Min"="min";
+"CALL"="APPELER";
+"DRIVER ACCEPTED THE JOB"="LE CONDUCTEUR ACCEPTE LA COURSE";
+"DRIVER HAS ARRIVED AT YOUR PLACE"="LE CONDUCTEUR EST ARRIVÉ";
+"YOUR TRIP HAS BEEN STARTED"="VOTRE VOYAGE COMMENCE";
+"DRIVER HAS STARTED TOWARDS YOU"="VOTRE CONDUCTEUR SE DÉPLACE VERS VOUS";
+"YOUR TRIP IS COMPLETED"="VOTRE VOYAGE EST TERMINÉ";
+"DRIVER ACCEPTED THE JOB"="LE CONDUCTEUR ACCEPTE LA COURSE";
+"Promo Code"="Code promo";
+"Enter Promo Code"="Entrez un code promo";
+"APPLY"="VALIDER";
+"Card"="Carte de crédit";
+"Cash"="Espèces";
+"Please Promo"="Merci d'entrer un code promo";
+"CANCEL_REQUEST"="Voulez vous annuler la course ?";
+
+///////LES +
+"GETTING HISTORY" = "CHARGEMENT DE L'HISTORIQUE";

@@ -1,0 +1,25 @@
+PODS:
+  - CardIO (5.3.2)
+  - GoogleMaps (1.13.0)
+  - PayPal-iOS-SDK (2.14.2):
+    - PayPal-iOS-SDK/CardIO (= 2.14.2)
+    - PayPal-iOS-SDK/Core (= 2.14.2)
+  - PayPal-iOS-SDK/CardIO (2.14.2):
+    - CardIO (~> 5.3.2)
+  - PayPal-iOS-SDK/Core (2.14.2)
+  - Stripe (8.0.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - PayPal-iOS-SDK
+  - Stripe
+
+SPEC CHECKSUMS:
+  CardIO: 92c45caef0d986c4a303a7afba0c9b76ff2b1f6e
+  GoogleMaps: 7a6caeb8336d7cb42982e969fc9b1b20a889fe79
+  PayPal-iOS-SDK: 6946b8730a3bde17e6230f5073676ecb596113c2
+  Stripe: 3dfcde17037996e00db0a2f6dbfdedb7ad2ae55b
+
+PODFILE CHECKSUM: 54ae3a1fd262e22069631303e7ddc64b4597d57a
+
+COCOAPODS: 1.0.1
